@@ -1,6 +1,6 @@
 ### Hi, I'm [Noah](https://noahcherel.tech), A Epitech Student in Nice 
 
-- 🌱 I’m currently learning C/C++ and Python mainly (HTML etc... if that count).
+- 🌱 I’m currently learning C/C++ and Python mainly (HTML etc... if that counts).
 - 💬 You can contact me [on Discord](https://discord.com/users/351471515809742852)
 
 **Languages and Tools:**
