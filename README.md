@@ -1,14 +1,11 @@
-### Hi, I'm [Noah](https://noahcherel.tech), A Epitech Student in Nice 
+### Hi, I'm [Noah](https://noahcherel.tech)(need a update), A Epitech Student in Nice 
 
-- 🌱 I’m currently learning C/C++ and Python mainly but also a mix of others like ruby(on rails) for personal projects.
+- ⚡ In my second year, I'm as of now in an Internship at Sophia-Antipolis
+- 🎯 I like to think of myself as a jack of all trade but I'm a full stack developer at heart (DevOps hold a part of it as well). 
 - 💬 You can contact me [on Discord](https://discord.com/users/351471515809742852)
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,c,vim,javascript,mysql,ruby,css,python,express,nodejs,vscode,linux" />
+</a>
