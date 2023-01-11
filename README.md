@@ -9,3 +9,9 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,c,vim,javascript,mysql,ruby,css,python,express,nodejs,vscode,linux" />
 </a>
+
+Some Git info : 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahCherel&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&show_icons=true&layout=compact&theme=radical)
