@@ -10,8 +10,7 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,ansible,c,vim,javascript,mysql,ruby,css,python,express,nodejs,vscode,linux" />
 </a>
 
-Some Git info : 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahCherel&show_icons=true&theme=radical)
+Some Git info :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&show_icons=true&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NoahCherel&theme=radical)](https://git.io/streak-stats)
