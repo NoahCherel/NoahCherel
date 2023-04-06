@@ -12,5 +12,4 @@
 
 Some Git info :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&show_icons=true&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=NoahCherel&theme=radical)](https://git.io/streak-stats)
