@@ -2,7 +2,7 @@
 
 - ⚡ In my third year
 - 🎯 I like to think of myself as a jack of all trade.
-- ✨ You can find here my public repos. Epitech works being private with a few exceptions. 
+- ✨ You can find here most of my projects. 
 
 <img><a href="https://www.linkedin.com/in/noahcherel/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></img>
 <img><a href="https://discord.com/users/351471515809742852" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a></img>
