@@ -29,7 +29,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/NoahCherel/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&title_color=ff652f&text_color=ffffff&icon_color=ff652f&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=codeSTACKr&border_color=ff652f&hide=css" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&title_color=ff652f&text_color=ffffff&icon_color=ff652f&langs_count=8&layout=compact&size_weight=1&count_weight=1&theme=codeSTACKr&border_color=ff652f&hide=css" />
   </div>
 
   <br>
