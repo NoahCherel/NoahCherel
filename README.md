@@ -1,6 +1,6 @@
-### Hi, I'm [Noah](https://noahcherel.tech)(need a update), A Epitech Student in Nice 
+### Hi, I'm Noah, A Epitech Student in Nice 
 
-- ⚡ In my fourth year (currently in Ulaval in Quebec) 
+- ⚡ In my final(5th) year.
 - 🎯 I like to think of myself as a jack of all trade.
 - ✨ You can find here most of my projects. 
 
