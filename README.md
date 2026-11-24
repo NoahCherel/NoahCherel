@@ -1,37 +1,58 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/name-dark.svg">
-  <img alt="Noah Cherel" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/name-light.svg" width="560">
-</picture>
+<div align="center">
 
-I'm a developer based in Nice. I graduated from Epitech and also studied at Université Laval in Québec.
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/name-dark.svg"><img alt="Noah Cherel" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/name-light.svg" width="420"></picture>
 
-I like understanding how things work all the way down, so I've ended up doing a bit of everything: C and Linux, infrastructure with Docker and Kubernetes, backends in Go and Node.js, and lately desktop and web apps in Rust and TypeScript.
-
-You can reach me on [LinkedIn](https://www.linkedin.com/in/noahcherel/), on [Discord](https://discord.com/users/351471515809742852) or at [noahcherel@gmail.com](mailto:noahcherel@gmail.com).
+<a href="https://github.com/NoahCherel"><img alt="Jack of all trades. Systems, infra, backend and UI. Epitech alumni based in Nice." src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=22&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=36&lines=Jack+of+all+trades;Systems%2C+infra%2C+backend+and+UI;Epitech+alumni+based+in+Nice"></a>
 
 <br>
 
-### What I work with
+<a href="https://www.linkedin.com/in/noahcherel/" title="LinkedIn"><img alt="LinkedIn" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/linkedin.svg" width="34"></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/351471515809742852" title="Discord"><img alt="Discord" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/discord.svg" width="34"></a>&nbsp;&nbsp;
+<a href="mailto:noahcherel@gmail.com" title="Email"><img alt="Email" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/email.svg" width="34"></a>
 
-| Systems | Infrastructure | Backend | Interfaces |
-| :-- | :-- | :-- | :-- |
-| <img src="https://cdn.simpleicons.org/c/8B949E" width="14" height="14" alt="">&nbsp; C | <img src="https://cdn.simpleicons.org/docker/8B949E" width="14" height="14" alt="">&nbsp; Docker | <img src="https://cdn.simpleicons.org/go/8B949E" width="14" height="14" alt="">&nbsp; Go | <img src="https://cdn.simpleicons.org/typescript/8B949E" width="14" height="14" alt="">&nbsp; TypeScript |
-| <img src="https://cdn.simpleicons.org/cplusplus/8B949E" width="14" height="14" alt="">&nbsp; C++ | <img src="https://cdn.simpleicons.org/kubernetes/8B949E" width="14" height="14" alt="">&nbsp; Kubernetes | <img src="https://cdn.simpleicons.org/nodedotjs/8B949E" width="14" height="14" alt="">&nbsp; Node.js | <img src="https://cdn.simpleicons.org/javascript/8B949E" width="14" height="14" alt="">&nbsp; JavaScript |
-| <img src="https://cdn.simpleicons.org/rust/8B949E" width="14" height="14" alt="">&nbsp; Rust | <img src="https://cdn.simpleicons.org/ansible/8B949E" width="14" height="14" alt="">&nbsp; Ansible | <img src="https://cdn.simpleicons.org/express/8B949E" width="14" height="14" alt="">&nbsp; Express | <img src="https://cdn.simpleicons.org/react/8B949E" width="14" height="14" alt="">&nbsp; React |
-| <img src="https://cdn.simpleicons.org/linux/8B949E" width="14" height="14" alt="">&nbsp; Linux | <img src="https://cdn.simpleicons.org/githubactions/8B949E" width="14" height="14" alt="">&nbsp; GitHub Actions | <img src="https://cdn.simpleicons.org/python/8B949E" width="14" height="14" alt="">&nbsp; Python | <img src="https://cdn.simpleicons.org/nextdotjs/8B949E" width="14" height="14" alt="">&nbsp; Next.js |
-| <img src="https://cdn.simpleicons.org/vim/8B949E" width="14" height="14" alt="">&nbsp; Vim | <img src="https://cdn.simpleicons.org/git/8B949E" width="14" height="14" alt="">&nbsp; Git | <img src="https://cdn.simpleicons.org/ruby/8B949E" width="14" height="14" alt="">&nbsp; Ruby | <img src="https://cdn.simpleicons.org/tauri/8B949E" width="14" height="14" alt="">&nbsp; Tauri |
-| | | <img src="https://cdn.simpleicons.org/mysql/8B949E" width="14" height="14" alt="">&nbsp; MySQL | <img src="https://cdn.simpleicons.org/kotlin/8B949E" width="14" height="14" alt="">&nbsp; Kotlin |
+</div>
 
 <br>
 
-### Activity
+### About me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=NoahCherel&hide_border=true&background=00000000&ring=8B949E&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=8B949E40">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=NoahCherel&hide_border=true&background=00000000&ring=59636E&fire=1F2328&currStreakLabel=1F2328&sideLabels=59636E&currStreakNum=1F2328&sideNums=1F2328&dates=59636E&stroke=59636E40" width="100%">
-</picture>
+- 📍 Based in **Nice, France**
+- 🎓 Graduated from **Epitech**, and also studied at **Université Laval** in Québec
+- 🛠️ Jack of all trades: low-level C, infrastructure, backends and interfaces
+- 🔭 Lately building desktop and web apps with **Rust**, **Tauri** and **TypeScript**
+- 💬 Always happy to talk about Linux, Docker, Kubernetes, or whatever you're building
+- 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/noahcherel/) or [email](mailto:noahcherel@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/output/github-snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/output/github-snake.svg" width="100%">
-</picture>
+<br>
+
+### Toolbox
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,go,ts,js,python,ruby,kotlin,react,nextjs,tauri,nodejs,express,mysql,docker,kubernetes,ansible,githubactions,linux,git,vim&perline=11&theme=dark"><img alt="C, C++, Rust, Go, TypeScript, JavaScript, Python, Ruby, Kotlin, React, Next.js, Tauri, Node.js, Express, MySQL, Docker, Kubernetes, Ansible, GitHub Actions, Linux, Git, Vim" src="https://skillicons.dev/icons?i=c,cpp,rust,go,ts,js,python,ruby,kotlin,react,nextjs,tauri,nodejs,express,mysql,docker,kubernetes,ansible,githubactions,linux,git,vim&perline=11&theme=light"></picture>
+</p>
+
+<br>
+
+### GitHub stats
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NoahCherel&show_icons=true&rank_icon=github&bg_color=00000000&hide_border=true&title_color=4493F8&icon_color=4493F8&ring_color=4493F8&text_color=E6EDF3"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NoahCherel&show_icons=true&rank_icon=github&bg_color=00000000&hide_border=true&title_color=0969DA&icon_color=0969DA&ring_color=0969DA&text_color=1F2328" height="165"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&layout=compact&langs_count=8&hide=html,css&bg_color=00000000&hide_border=true&title_color=4493F8&icon_color=4493F8&ring_color=4493F8&text_color=E6EDF3"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&layout=compact&langs_count=8&hide=html,css&bg_color=00000000&hide_border=true&title_color=0969DA&icon_color=0969DA&ring_color=0969DA&text_color=1F2328" height="165"></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=NoahCherel&background=00000000&hide_border=true&ring=4493F8&fire=4493F8&currStreakLabel=4493F8&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=8B949E40"><img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=NoahCherel&background=00000000&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=59636E&stroke=59636E40"></picture>
+</p>
+
+<details>
+<summary><b>Recent activity</b></summary>
+<br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/output/github-snake-dark.svg"><img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/output/github-snake.svg" width="100%"></picture>
