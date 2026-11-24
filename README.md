@@ -28,7 +28,7 @@
 ### Toolbox
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,go,ts,js,python,ruby,kotlin,react,nextjs,tauri,nodejs,express,mysql,docker,kubernetes,ansible,githubactions,linux,git,vim&perline=11&theme=dark"><img alt="C, C++, Rust, Go, TypeScript, JavaScript, Python, Ruby, Kotlin, React, Next.js, Tauri, Node.js, Express, MySQL, Docker, Kubernetes, Ansible, GitHub Actions, Linux, Git, Vim" src="https://skillicons.dev/icons?i=c,cpp,rust,go,ts,js,python,ruby,kotlin,react,nextjs,tauri,nodejs,express,mysql,docker,kubernetes,ansible,githubactions,linux,git,vim&perline=11&theme=light"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Crust%2Cgo%2Cts%2Cjs%2Cpython%2Cruby%2Ckotlin%2Creact%2Cnextjs%2Ctauri%2Cnodejs%2Cexpress%2Cmysql%2Cdocker%2Ckubernetes%2Cansible%2Cgithubactions%2Clinux%2Cgit%2Cvim&perline=11&theme=dark"><img alt="C, C++, Rust, Go, TypeScript, JavaScript, Python, Ruby, Kotlin, React, Next.js, Tauri, Node.js, Express, MySQL, Docker, Kubernetes, Ansible, GitHub Actions, Linux, Git, Vim" src="https://skillicons.dev/icons?i=c%2Ccpp%2Crust%2Cgo%2Cts%2Cjs%2Cpython%2Cruby%2Ckotlin%2Creact%2Cnextjs%2Ctauri%2Cnodejs%2Cexpress%2Cmysql%2Cdocker%2Ckubernetes%2Cansible%2Cgithubactions%2Clinux%2Cgit%2Cvim&perline=11&theme=light"></picture>
 </p>
 
 <br>
@@ -37,7 +37,7 @@
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NoahCherel&show_icons=true&rank_icon=github&bg_color=00000000&hide_border=true&title_color=4493F8&icon_color=4493F8&ring_color=4493F8&text_color=E6EDF3"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NoahCherel&show_icons=true&rank_icon=github&bg_color=00000000&hide_border=true&title_color=0969DA&icon_color=0969DA&ring_color=0969DA&text_color=1F2328" height="165"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&layout=compact&langs_count=8&hide=html,css&bg_color=00000000&hide_border=true&title_color=4493F8&icon_color=4493F8&ring_color=4493F8&text_color=E6EDF3"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&layout=compact&langs_count=8&hide=html,css&bg_color=00000000&hide_border=true&title_color=0969DA&icon_color=0969DA&ring_color=0969DA&text_color=1F2328" height="165"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&layout=compact&langs_count=8&hide=html%2Ccss&bg_color=00000000&hide_border=true&title_color=4493F8&icon_color=4493F8&ring_color=4493F8&text_color=E6EDF3"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&layout=compact&langs_count=8&hide=html%2Ccss&bg_color=00000000&hide_border=true&title_color=0969DA&icon_color=0969DA&ring_color=0969DA&text_color=1F2328" height="165"></picture>
 </p>
 
 <p align="center">
