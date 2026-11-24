@@ -1,18 +1,18 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/name-dark.svg"><img alt="Noah Cherel" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/name-light.svg" width="420"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/banner-dark.svg"><img alt="Noah Cherel" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/banner-light.svg" width="100%"></picture>
 
-<a href="https://github.com/NoahCherel"><img alt="Jack of all trades. Systems, infra, backend and UI. Epitech alumni based in Nice." src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=22&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=36&lines=Jack+of+all+trades;Systems%2C+infra%2C+backend+and+UI;Epitech+alumni+based+in+Nice"></a>
+<a href="https://github.com/NoahCherel"><img alt="Jack of all trades. Systems, infra, backend and UI. Epitech alumni based in Nice." src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=560&height=40&lines=Jack+of+all+trades;Systems%2C+infra%2C+backend+and+UI;Epitech+alumni+based+in+Nice"></a>
 
-<br>
+<a href="https://www.linkedin.com/in/noahcherel/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/btn-linkedin-light.svg" height="40"></picture></a>&nbsp;
+<a href="https://discord.com/users/351471515809742852"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/btn-discord-dark.svg"><img alt="Discord" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/btn-discord-light.svg" height="40"></picture></a>&nbsp;
+<a href="mailto:noahcherel@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/btn-email-dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/btn-email-light.svg" height="40"></picture></a>
 
-<a href="https://www.linkedin.com/in/noahcherel/" title="LinkedIn"><img alt="LinkedIn" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/linkedin.svg" width="34"></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/351471515809742852" title="Discord"><img alt="Discord" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/discord.svg" width="34"></a>&nbsp;&nbsp;
-<a href="mailto:noahcherel@gmail.com" title="Email"><img alt="Email" src="https://raw.githubusercontent.com/NoahCherel/NoahCherel/HEAD/assets/email.svg" width="34"></a>
+<a href="https://github.com/NoahCherel?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/NoahCherel?label=Followers&style=flat-square&labelColor=3D444D&color=4493F8"></a>
+<a href="https://github.com/NoahCherel?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/NoahCherel?affiliations=OWNER&label=Stars&style=flat-square&labelColor=3D444D&color=4493F8"></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=NoahCherel&label=Profile%20views&color=4493F8&style=flat-square&labelColor=3D444D">
 
 </div>
-
-<br>
 
 ### About me
 
@@ -42,6 +42,10 @@
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=NoahCherel&background=00000000&hide_border=true&ring=4493F8&fire=4493F8&currStreakLabel=4493F8&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=8B949E40"><img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=NoahCherel&background=00000000&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=59636E&stroke=59636E40"></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NoahCherel&area=true&hide_border=true&radius=8&bg_color=00000000&custom_title=Contributions%20over%20the%20last%2030%20days&color=8B949E&title_color=E6EDF3&line=4493F8&point=E6EDF3&area_color=4493F8"><img alt="Contributions over the last 30 days" src="https://github-readme-activity-graph.vercel.app/graph?username=NoahCherel&area=true&hide_border=true&radius=8&bg_color=00000000&custom_title=Contributions%20over%20the%20last%2030%20days&color=59636E&title_color=1F2328&line=0969DA&point=1F2328&area_color=0969DA" width="100%"></picture>
 </p>
 
 <details>
